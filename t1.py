@@ -1,1 +1,1 @@
-print("sexy yash")
+print("yash")
